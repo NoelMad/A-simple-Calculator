@@ -1,2 +1,2 @@
-# A-simple-Calculator
-create a simple calculator
+# About my first project on Github 
+For my project, I developed a basic calculator using Java. The purpose of this calculator is to perform various arithmetic operations by reading the operator sign inputted by the user. The program supports addition (+), subtraction (-), multiplication (*), and division (/), as well as more advanced operations like calculating the remainder (%), square roots (sqrt), and exponents (exponents). The calculator first prompts the user to enter the desired operation symbol, and then asks for the appropriate number or numbers to compute the result. This design allows users to perform calculations interactively and repeatedly until they choose to exit the program.
